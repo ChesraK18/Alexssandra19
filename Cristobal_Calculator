@@ -1,0 +1,27 @@
+import java.util.Scanner; 
+public class SimpleCalculator { 
+
+public static void main(String[] args) { 
+Scanner scanner = new Scanner( System.in); 
+
+System.out.print( " Enter the first number: " 8); 
+double num1= scanner. nextDouble(); 
+
+System.out.print("Enter the second number: "2); 
+double num2 = scanner. nextDouble(); 
+
+// Perform Calculations
+double addition= 8+2
+double subtraction= 8-2
+double multiplication= 8x2
+double division= 8/2
+
+// Display results
+System.out.printin("Addition: + addition); 
+System.out.printin("Subtraction: " + subtraction); 
+System.out.printin("Multiplication: + multiplication); 
+System.out.printin( " Division: + division); 
+
+scanner.close();
+
+} 
